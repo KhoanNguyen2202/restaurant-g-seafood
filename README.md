@@ -7,9 +7,6 @@ Build a Responsive Restaurant: G-SeadFood_ Website with Modern UI and UX in Reac
 --Page: About Us--
 ![ed1277a8-faae-43d2-bf1b-4ab2a2c1944a](https://user-images.githubusercontent.com/115808120/233787679-4cd395a5-054f-4a0c-b31d-b0b529ddb22f.png)
 
---Page: Navbar and Header--
-![593c819c-f5e8-4974-986a-18682bc2a62d](https://user-images.githubusercontent.com/115808120/233787737-d3b18c07-037f-4540-b3b4-c83b7181cc2b.png)
-
 --Page: Menu--
 ![7cb57165-c527-4f5b-93ee-58d8e6d7dc0c](https://user-images.githubusercontent.com/115808120/233787750-32423bcf-4e33-400e-bb7e-c3412b8006a0.png)
 
