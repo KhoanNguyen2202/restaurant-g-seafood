@@ -30,4 +30,5 @@ Build a Responsive Restaurant: G-SeadFood_ Website with Modern UI and UX in Reac
 
 --Page: Footer
 
-![dd5b4b0b-c782-4c3b-b790-dc4c6e3b9991](https://user-images.githubusercontent.com/115808120/233787856-3947b8a6-061c-48fc-ba0e-3f04744d1f74.png)
+![238d9cb6-2de9-4e18-9449-365529d44611](https://user-images.githubusercontent.com/115808120/233787993-5ebcbbca-428f-4978-a64e-7e90b04e9ab3.png)
+
